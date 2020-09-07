@@ -1,4 +1,4 @@
-# simple test script making a GET Request to a url in this homework project I am using hubapi.
+# simple test script making a GET Request to a url.
 import json
 import requests
 
