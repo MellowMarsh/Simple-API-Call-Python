@@ -1,6 +1,6 @@
 # Simple-API-Call-Python
 
-A Simple Api call using a GET Request and parsing that data.
+## A Simple Api call using a GET Request and parsing that data.
 
 Create a python script (script.py) that pulls the same data but also writes a data.json file. This simple script can be used/modified for other Rest API GET requests. Create a for loop that parses that data.
 
